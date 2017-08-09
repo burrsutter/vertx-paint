@@ -4,7 +4,7 @@ A fun example of using the Vert.x Event Bus to bridge the audience's mobile phon
 # Run
 1) mvn clean compile package
 
-2) java -jar target/07-vertx-paint-1.0-SNAPSHOT.jar
+2) java -jar target/vertx-paint-1.0-SNAPSHOT.jar
 
 3) Browser #1: http://localhost:8080
 
